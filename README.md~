@@ -1,0 +1,11 @@
+# Sequence alignment object recognition
+
+For my thesis I developed a multi-view viewpoint dependent object model for object recognition based on sequence alignment. 
+
+## Getting started
+
+Place all .m files inside a directory containing the following externally downloaded libraries and run main.m
+
+* matconvnet
+* vlfeat
+* rgbd-dataset
