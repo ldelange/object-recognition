@@ -1,7 +1,7 @@
 # Single-view object recognition
 
 Measures object recognition peroformance based on single view object recognition. Object maps are constructed for each object containing several views. Tests are conducted by discretising the object maps, which increases the space (degrees) between views.
-![flow diagram](https://github.com/ldelange/sv_objrecog/blob/master/svflow.png)
+![flow diagram](https://raw.githubusercontent.com/ldelange/object-recognition/master/Multi-view%20object%20recognition%20benchmark/svflow.png)
 
 ## Descriptors
 
@@ -41,4 +41,4 @@ Place all .m files inside a directory containing the following externally downlo
 
 ## Results
 
-![flow diagram](https://github.com/ldelange/sv_objrecog/blob/master/results.png)
+![Single-view object recognition results](https://raw.githubusercontent.com/ldelange/object-recognition/master/Multi-view%20object%20recognition%20benchmark/results.png)

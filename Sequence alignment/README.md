@@ -2,7 +2,7 @@
 
 Measures multi-view object recognition peroformance based on sequence alignment. Object maps are constructed for each object containing multiple views. Multi and Single-view object recognition are compared in this algorithm.
 
-![Sequence alignment flow diagram](https://raw.githubusercontent.com/ldelange/mv_objrecog/master/mvflow.png)
+![Sequence alignment flow diagram](https://raw.githubusercontent.com/ldelange/object-recognition/master/Sequence%20alignment/mvflow.png)
 
 ## Descriptors
 
@@ -30,3 +30,7 @@ Place all .m files inside a directory containing the following externally downlo
 * matconvnet
 * vlfeat
 * rgbd-dataset
+
+## Results
+
+![Sequence alignment results](https://raw.githubusercontent.com/ldelange/object-recognition/master/Sequence%20alignment/results.png)
